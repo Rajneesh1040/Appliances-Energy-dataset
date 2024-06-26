@@ -5,11 +5,7 @@
 
 ### Description
 
-Experimental data used to create regression models of appliances energy use in a low energy building.
-
-### Summary
-
-Experimental data used to create regression models of appliances energy use in a low energy building.
+Experimental data used to create regression models of appliance energy use in a low-energy building.
 
 ## Data Source
 - **UCI Machine Repository**
