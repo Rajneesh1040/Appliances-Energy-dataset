@@ -97,4 +97,6 @@ pip install numpy pandas matplotlib seaborn opendatasets scikit-learn xgboost sc
 
 ### Best Model for Prediction
 Among all the models evaluated, the **XGBoost Regressor** demonstrates the best performance. It achieved a high training R² score of 99.61% and a strong testing R² score of 69.26%. With an accuracy of 89.76%, the XGBoost Regressor proves to be the most suitable model for predicting the energy consumption of appliances in this dataset.
- 
+
+ ## License
+[MIT License](LICENSE)
